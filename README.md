@@ -1,1 +1,2 @@
-# This Blog is for introducing our company
+# PROJECT BLUE TECH BLOG
+## WHAT'S THE PROJECT BLUE?
