@@ -7,11 +7,9 @@ BLUE의 의미는 밝은 미래나 전망이 좋은, 가능성이 있는 분야�
 
 #YOUTUBE LINK
 #사업자계좌 만들기
+
+## PROJECT INTRODUCE
 ### PROJECT 1. Weekly52 일용직 주 52시간 체크 앱 
 
-#### 1) iOS
-#### 2) Android
-
 ### PROJECT 2. 농산물주문 앱
-#### 1) iOS
-#### 2) Android
+
