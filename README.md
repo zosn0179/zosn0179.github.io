@@ -7,6 +7,7 @@ BLUE의 의미는 밝은 미래나 전망이 좋은, 가능성이 있는 분야�
 신용카드 잘씁시다...
 #YOUTUBE LINK
 #사업자계좌 만들기
+# 통신판매신고
 
 ## PROJECT INTRODUCE
 ### PROJECT 1. Weekly52 일용직 주 52시간 체크 앱 
