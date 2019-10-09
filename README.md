@@ -4,3 +4,5 @@
 
 MAKE GITHUB BLOGPAGE
 #PROJECT 1. Weekly 52
+
+#PROJECT 2. ShoppingMall App
